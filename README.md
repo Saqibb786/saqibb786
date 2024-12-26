@@ -43,7 +43,6 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=saqibb786&theme=tokyonight&short_numbers=true" alt="GitHub Streak" />
   </a>
 </div>
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saqibb786&show_icons=true&locale=en&theme=transparent) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saqibb786&theme=tokyonight&short_numbers=true) |
-|---|---|
+
 <p><img style="width: 100%; margin-block: 10px; flex-direction: row; display: flex; align-items: flex-start; justify-content: flex-start; align-self: flex-start; text-align: center;" src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibb786&show_icons=true&locale=en&layout=compact" alt="saqibb786" /></p>
 
