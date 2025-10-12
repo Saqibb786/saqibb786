@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saqib Ali Butt</h1>
-<h3 align="center">Aspiring Software Engineer advancing expertise in React Native, Machine Learning, and Computer Vision. I love building cross-platform apps, contributing to open-source, and exploring new technologies. 🚀📚🎯</h3>
+<h3 align="center">Aspiring Software Engineer passionate about in AI, Machine Learning, and Computer Vision. I love building websites and cross-platform applications, contributing to open-source projects, and exploring emerging technologies. 🚀📚🎯</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
