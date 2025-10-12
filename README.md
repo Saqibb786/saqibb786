@@ -9,7 +9,7 @@
 
 ---
 
-- 🔭 I am currently working as a **React Native Developer at Association for Computing Machinery (ACM).**
+- 🔭 One year experience as a **React Native Developer at Association for Computing Machinery (ACM).**
 - 📚 I am currently advancing my knowledge in **Ai, Machine Learning, and Computer Vision** 
 - 💡 Strong foundation in **Python, JavaScript, C/C++** with experience in **OOP, DSA, and Programming Fundamentals**.
 - 👯 I’m open to collaborating on **open-source projects** in cross-platform app development, AI, and Machine Learning.
