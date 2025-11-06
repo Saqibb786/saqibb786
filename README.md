@@ -1,34 +1,43 @@
 <h1 align="center">Hi 👋, I'm Saqib Ali Butt</h1>
 <h3 align="center">Aspiring Software Engineer specializing in AI, Machine Learning, and Computer Vision. I love building websites and cross-platform applications, contributing to open-source projects, and exploring emerging technologies. 🚀📚🎯</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="center">
+  <a href="https://saqib-personalportfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yourusername" alt="yourusername" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqibb786&label=Profile%20views&color=0e75b6&style=flat" alt="saqibb786" /> </p>
 
-<p align="left"> <a href="https://x.com/saqibb0786" target="blank"><img src="https://img.shields.io/twitter/follow/saqibb786?logo=twitter&style=for-the-badge" alt="Saqibb786" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saqibb786" alt="saqibb786" /></a> </p>
+
+<p align="left"> <a href="https://x.com/saqibb0786" target="blank"><img src="https://img.shields.io/twitter/follow/saqibb0786?logo=twitter&style=for-the-badge" alt="saqibb786" /></a> </p>
 
 ---
 
-- 🔭 One year experience as a **React Native Developer at Association for Computing Machinery (ACM).**
-- 📚 I am currently advancing my knowledge in **Ai, Machine Learning, and Computer Vision** 
-- 💡 Strong foundation in **Python, JavaScript, C/C++** with experience in **OOP, DSA, and Programming Fundamentals**.
-- 👯 I’m open to collaborating on **open-source projects** in cross-platform app development, AI, and Machine Learning.
+## 🚀 About Me
+
+- 🔭 One year experience as a **React Native Developer at Association for Computing Machinery (ACM)**
+- 📚 Currently advancing my knowledge in **AI, Machine Learning, and Computer Vision** 
+- 💡 Strong foundation in **Python, JavaScript, C/C++** with expertise in **OOP, DSA, and Programming Fundamentals**.
+- 👯 Open to collaborating on **open-source projects** in cross-platform app development, AI, and Machine Learning
+- 🌐 Check out my portfolio website: **[saqib-personalportfolio.netlify.app](https://saqib-personalportfolio.netlify.app/)**
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/saqibb786)
 - 💬 Ask me about:  
   **React Native, React.js, Flutter, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
 - 📫 Reach me at **saqibbutt10000@gmail.com**
-- ⚡ Fun fact **I recently recreated the RAWG.io gaming review site using React and Chakra UI!**
+- ⚡ Fun fact: **I recently recreated the RAWG.io gaming review site using React and Chakra UI!**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/Saqib-Ali-Butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://dev.to/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://x.com/saqibb0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/saqib-ali-butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yourusername" height="30" width="40" /></a>
-<a href="https://codesandbox.com/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="yourusername" height="30" width="40" /></a>
+<a href="https://codepen.io/Saqib-Ali-Butt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="saqibb786" height="30" width="40" /></a>
+<a href="https://dev.to/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="saqibb786" height="30" width="40" /></a>
+<a href="https://x.com/saqibb0786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saqibb786" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saqib-ali-butt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saqibb786" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saqibb786" height="30" width="40" /></a>
+<a href="https://codesandbox.com/saqibb786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="saqibb786" height="30" width="40" /></a>
 </p>
 
 ---
