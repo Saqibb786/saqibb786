@@ -20,7 +20,7 @@
 - 🔭 One year experience as a **React Native Developer at Association for Computing Machinery (ACM)**
 - 📚 Currently advancing my knowledge in **AI, Machine Learning, and Computer Vision** 
 - 💡 Strong foundation in **Python, JavaScript, C/C++** with expertise in **OOP, DSA, and Programming Fundamentals**.
-- 👯 Open to collaborating on **open-source projects** in cross-platform app development, AI, and Machine Learning
+- 👯 Open to collaborating on **open-source projects** in cross-platform app development, AI, and Machine Learning.
 - 🌐 Check out my portfolio website: **[saqib-personalportfolio.netlify.app](https://saqib-personalportfolio.netlify.app/)**
 - 👨‍💻 All of my projects are available at [GitHub Portfolio](https://github.com/saqibb786)
 - 💬 Ask me about:  
