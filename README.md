@@ -4,6 +4,12 @@
 
 ### Aspiring Software Engineer | AI Enthusiast | Full-Stack Developer
 
+<p align="center">
+  <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0070f3" alt="Portfolio Website" />
+  </a>
+</p>
+
 <p>
   <img src="https://komarev.com/ghpvc/?username=saqibb786&label=Profile%20views&color=0e75b6&style=flat-alt" alt="Profile views" />
   <a href="https://github.com/saqibb786?tab=followers">
@@ -14,13 +20,8 @@
   </a>
 </p>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=saqibb786&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</a>
 
 <p align="center">
-  <a href="https://saqib-portfolio786.vercel.app/">Portfolio</a> •
-  <a href="https://github.com/saqibb786">GitHub</a> •
   <a href="mailto:saqibbutt10000@gmail.com">Email</a>
 </p>
 
@@ -39,7 +40,7 @@
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/saqibb786)**
 - 💬 Ask me about: **React Native, React.js, Flutter, Next.js, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
 - 📫 Reach me at **[saqibbutt10000@gmail.com](mailto:saqibbutt10000@gmail.com)**
-- ⚡ Fun fact: **I recently recreated the RAWG.io gaming review site using React and Chakra UI!**
+- ⚡ Fun fact: **I love building AI-powered applications that solve real-world problems!**
 
 ---
 
@@ -49,12 +50,12 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[GameHub](https://github.com/saqibb786/GameHub)** | A recreation of RAWG.io gaming review platform with dynamic game listings and filtering | React, Chakra UI, TypeScript |
-| **[Moshify](https://github.com/saqibb786/Moshify)** | Modern cloud hosting platform landing page with responsive design | HTML5, CSS3, JavaScript |
-| **[Portfolio Website](https://github.com/saqibb786/Saqib-Portfolio)** | Personal portfolio showcasing projects and skills | React, Vercel, Modern UI/UX |
-| **[OCR Dashboard](https://github.com/saqibb786/OCR-Dashboard-in-Python)** | Optical Character Recognition dashboard for text extraction | Python, Computer Vision, OCR |
-| **[StepUp Digitals](https://github.com/saqibb786/Stepup-digitals)** | Digital agency website with modern design | Web Development, Responsive Design |
-| **[Todo App (Java)](https://github.com/saqibb786/TodoAppJava)** | Full-featured task management application | Java, Android, SQLite |
+| **[Eco Scout](https://github.com/saqibb786/Eco-Scout)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
+| **[Multi-Class Emotion Recognition](https://github.com/saqibb786/Emotion-Recognition)** | Advanced emotion detection from textual data using transformer models | Python, BERT, GRU, NLP, Deep Learning |
+| **[OCR Dashboard](https://github.com/saqibb786/OCR-Dashboard-in-Python)** | Optical Character Recognition dashboard for text extraction from images | Python, Computer Vision, OCR, Tesseract |
+| **[GameHub](https://github.com/saqibb786/GameHub)** | A recreation of RAWG.io gaming review platform with dynamic game listings and filtering | React, Chakra UI, TypeScript, REST API |
+| **[Moshify](https://github.com/saqibb786/Moshify)** | Modern cloud hosting platform landing page with responsive design | HTML5, CSS3, JavaScript, Responsive Design |
+| **[Portfolio Website](https://github.com/saqibb786/Saqib-Portfolio)** | Personal portfolio showcasing projects and skills with modern UI/UX | React, Vercel, Modern UI/UX |
 
 </div>
 
@@ -130,16 +131,16 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqibb786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibb786&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saqibb786&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saqibb786&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibb786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqibb786&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibb786&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saqibb786&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae" alt="Contribution Graph" />
 </div>
 
 ---
