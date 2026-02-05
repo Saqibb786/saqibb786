@@ -18,6 +18,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=saqibb786&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </a>
 
+<p align="center">
+  <a href="https://saqib-portfolio786.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/saqibb786">GitHub</a> •
+  <a href="mailto:saqibbutt10000@gmail.com">Email</a>
+</p>
+
 </div>
 
 ---
