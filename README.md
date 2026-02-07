@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-- 🎓 **Artificial Intelligence Student** at NUCES (National University of Computer and Emerging Sciences)
+- 🎓 **Computer Science Student** at UCP (University of Central Punjab)
 - 💼 Currently working as a **React Native Developer at Association for Computing Machinery (ACM)**
 - 📚 Advancing my expertise in **AI, Machine Learning, Deep Learning, and Computer Vision**
 - 💡 Strong foundation in **Python, JavaScript, TypeScript, C/C++** with extensive experience in **OOP, DSA, and Software Engineering**
