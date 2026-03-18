@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Saqib Ali Butt
 
-### Aspiring Software Engineer | AI Enthusiast | Full-Stack Developer
+### Software Engineer | AI | Data Science | Full-Stack
 
 <p align="center">
   <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
