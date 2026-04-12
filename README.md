@@ -49,7 +49,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[Eco Scout](https://github.com/saqibb786/Eco-Scout)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
+| **[Eco Scout](https://github.com/saqibb786/EcoScout)** | Smart vehicle littering and smoke emission detection system using computer vision | Python, Computer Vision, Deep Learning, YOLOv8 |
 | **[Multi-Class Emotion Recognition](https://github.com/saqibb786/Emotion-Recognition)** | Advanced emotion detection from textual data using transformer models | Python, BERT, GRU, NLP, Deep Learning |
 | **[OCR Dashboard](https://github.com/saqibb786/OCR-Dashboard-in-Python)** | Optical Character Recognition dashboard for text extraction from images | Python, Computer Vision, OCR, Tesseract |
 | **[GameHub](https://github.com/saqibb786/GameHub)** | A recreation of RAWG.io gaming review platform with dynamic game listings and filtering | React, Chakra UI, TypeScript, REST API |
