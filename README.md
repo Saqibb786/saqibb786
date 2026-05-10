@@ -15,8 +15,8 @@
   <a href="https://github.com/saqibb786?tab=followers">
     <img src="https://img.shields.io/github/followers/saqibb786?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://x.com/saqibb0786">
-    <img src="https://img.shields.io/twitter/follow/saqibb0786?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  <a href="https://x.com/Saqibbdev">
+    <img src="https://img.shields.io/twitter/follow/Saqibbdev?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
   </a>
 </p>
 
@@ -150,10 +150,10 @@
   <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/saqibbdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/saqibb786" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/saqibb0786" target="_blank">
+  <a href="https://x.com/Saqibbdev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:saqibb.dev@gmail.com">
