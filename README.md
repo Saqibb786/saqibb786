@@ -22,7 +22,7 @@
 
 
 <p align="center">
-  <a href="mailto:saqibbutt10000@gmail.com">Email</a>
+  <a href="mailto:saqibb.dev@gmail.com">Email</a>
 </p>
 
 </div>
@@ -38,7 +38,7 @@
 - 👯 Open to collaborating on **open-source projects** in cross-platform development, AI/ML, and web technologies
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/saqibb786)**
 - 💬 Ask me about: **React Native, React.js, Flutter, Next.js, Python, JavaScript, TypeScript, C++, Machine Learning, Firebase, SQL**
-- 📫 Reach me at **[saqibbutt10000@gmail.com](mailto:saqibbutt10000@gmail.com)**
+- 📫 Reach me at **[saqibb.dev@gmail.com](mailto:saqibb.dev@gmail.com)**
 - ⚡ Fun fact: **I love building AI-powered applications that solve real-world problems!**
 
 ---
@@ -150,13 +150,13 @@
   <a href="https://saqib-portfolio786.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/saqib-ali-butt/" target="_blank">
+  <a href="https://www.linkedin.com/in/saqibbdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/saqibb0786" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:saqibbutt10000@gmail.com">
+  <a href="mailto:saqibb.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/saqibb786" target="_blank">
